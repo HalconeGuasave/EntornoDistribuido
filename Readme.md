@@ -1,9 +1,11 @@
 # Entorno Distribuido
+# Universidad Autonoma de Occidente campus Guasave
+## Licenciatura en Sistemas Computacionales
 
-## Laborando
+### Laborando
 
-Lider    - Ricardo Mascareño<br>
-Triage   - Alejandro Oros<br>
-Maintain - J. Martin Urias<br>
-Collab   - Cesar E. Acosta<br>
-Read     - Bidkar A. Cárdenas<br>
+[Admin   - Ricardo Mascareño](https://github.com/Falconx94)<br>
+[Triage   - Alejandro Oros](https://github.com/blackgold21)<br>
+[Write - J. Martin Urias](https://github.com/Jmu6huevos1 )<br>
+[Read    - Genaro Duran](https://github.com/Phoenixcho)<br>
+Maintain    - Bidkar A. Cárdenas<br>
