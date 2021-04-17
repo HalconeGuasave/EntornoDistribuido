@@ -1,6 +1,7 @@
 # Entorno Distribuido
 # Universidad Autonoma de Occidente campus Guasave
 ## Licenciatura en Sistemas Computacionales
+## Ambientes Colaborativos y control de versiones de GIT
 
 ### Laborando
 
